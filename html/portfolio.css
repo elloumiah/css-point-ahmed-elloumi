@@ -1,0 +1,39 @@
+.navbar {
+  color: black;
+  width: 80px;
+  height: 20px;
+  border: 4px solid black;
+  display: inline-block;
+  font-family: Helvetica neue, roboto;
+}
+.titel {
+  color: black;
+  text-decoration: underline;
+}
+span {
+  display: block;
+  color: black;
+  font-family: Helvetica neue, roboto;
+}
+body {
+  font-family: Helvetica neue, roboto;
+  background-image: url("./pic.jpg");
+  line-height: 1.5em;
+  text-transform: uppercase;
+}
+.name {
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+img {
+  border-radius: 50%;
+}
+.center h1,
+.center img,
+.center ul {
+  text-align: center;
+}
+ul,
+ol {
+  list-style: none;
+}
